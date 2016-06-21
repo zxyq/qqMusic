@@ -1,0 +1,71 @@
+[
+  {
+    "src": "./music/一块红布.mp3",
+    "time": "4:50",
+    "name": "一块红布",
+    "singer": "柳如萱",
+    "album": "深夜咖啡"
+  },
+  {
+    "src": "./music/丑八怪-薛之谦.mp3",
+    "time": "4:08",
+    "name": "丑八怪",
+    "singer": "薛之谦",
+    "album": "ཡᙙ"
+  },
+  {
+    "src": "./music/另一个自己.mp3",
+    "time": "5:25",
+    "name": "另一个自己",
+    "singer": "何炅",
+    "album": "栀子花开 电影原声带"
+  },
+  {
+    "src": "./music/林俊杰 - 她说.mp3",
+    "time": "5:19",
+    "name": "她说",
+    "singer": "林俊杰",
+    "album": "她说"
+  },
+  {
+    "src": "./music/林俊杰 - 弹唱 [mqms2].mp3",
+    "time": "3:15",
+    "name": "弹唱",
+    "singer": "林俊杰",
+    "album": "和自己对话 From M.E. To Myself"
+  },
+  {
+    "src": "./music/林俊杰 - 西界 [mqms2].mp3",
+    "time": "4:55",
+    "name": "西界",
+    "singer": "林俊杰"
+  },
+  {
+    "src": "./music/江南.mp3",
+    "time": "4:28",
+    "name": "江南",
+    "singer": "林俊杰",
+    "album": "第二天堂(江南)"
+  },
+  {
+    "src": "./music/薛之谦 - 演员 [mqms2].mp3",
+    "time": "4:21",
+    "name": "演员",
+    "singer": "薛之谦",
+    "album": "绅士"
+  },
+  {
+    "src": "./music/薛之谦 - 绅士 [mqms2].mp3",
+    "time": "4:51",
+    "name": "绅士",
+    "singer": "薛之谦",
+    "album": "绅士"
+  },
+  {
+    "src": "./music/林俊杰 - 不为谁而作的歌.mp3",
+    "time": "4:25",
+    "name": "不为谁而作的歌",
+    "singer": "林俊杰",
+    "album": "和自己对话 From M.E. To Myself"
+  }
+]
